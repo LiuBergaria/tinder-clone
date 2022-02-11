@@ -1,0 +1,17 @@
+# Storybook
+src/storybook/storyLoader.js
+
+# Temp generated types
+src/temp/generated
+
+# Jest mocks
+jest/__mocks__
+
+**/package.json
+
+# Animation files
+src/animations/*
+
+# Json from native
+android/**/*.json
+ios/**/*.json
